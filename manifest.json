@@ -1,0 +1,25 @@
+{
+  "name": "Some Token List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "some",
+      "tokens",
+      "list"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/globe.png",
+  "timestamp": "2022-06-22T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "Private Token2",
+          "chainId": 61,
+          "symbol": "TOKEN2",
+          "decimals": 18,
+          "address": "0x77C7b0ce250Afb6E9668EdC7fb7Fe309Fa0D8E83",
+          "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/globe.png"
+      }
+  ]
+}
