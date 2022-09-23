@@ -1,0 +1,21 @@
+{
+  "name": "Wrapped Tokens",
+  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
+  "keywords": ["wrapped", "bitcoin", "ether"],
+  "timestamp": "2022-09-23T18:18:00+00:00",
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+      "symbol": "WETC",
+      "name": "Wrapped Ethereum Classic",
+      "decimals": 18,
+      "tags": ["ether", "classic"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 9,
+    "patch": 4
+  }
+}

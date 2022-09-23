@@ -1,0 +1,21 @@
+{
+  "name": "BA ERC20 SEC Action",
+  "timestamp": "2022-09-23T14:38:38.162Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "keywords": ["blockchain", "sec", "action", "etc"],
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0xFd7DC229544d473B61331261EdabB2d99C25460C",
+      "name": "Example Banned Token",
+      "symbol": "EBT",
+      "decimals": 18
+    }
+  ]
+}
