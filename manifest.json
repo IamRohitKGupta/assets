@@ -2,7 +2,7 @@
   "name": "Turbine Swap ETC Token List",
   "version": {
       "major": 0,
-      "minor": 2,
+      "minor": 3,
       "patch": 0
   },
   "keywords": [
@@ -12,7 +12,7 @@
       "list"
   ],
   "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/favicon.png",
-  "timestamp": "2022-06-22T14:15:22+0000",
+  "timestamp": "2022-09-24T14:15:22+0000",
   "tokens": [
       {
           "chainId": 61,
