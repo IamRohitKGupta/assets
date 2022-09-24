@@ -15,14 +15,6 @@
   "timestamp": "2022-09-24T14:15:22+0000",
   "tokens": [
       {
-          "chainId": 61,
-          "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
-          "symbol": "WETC",
-          "name": "Wrapped Ethereum Classic",
-          "decimals": 18,
-          "tags": ["ether", "classic"]
-      },
-      {
           "name": "Private Token2",
           "chainId": 61,
           "symbol": "TOKEN2",
