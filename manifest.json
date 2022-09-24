@@ -1,18 +1,27 @@
 {
-  "name": "Some Token List",
+  "name": "Turbine Swap ETC Token List",
   "version": {
       "major": 0,
       "minor": 2,
       "patch": 0
   },
   "keywords": [
-      "some",
+      "turbine",
+      "turbineswap",
       "tokens",
       "list"
   ],
-  "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/globe.png",
+  "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/favicon.png",
   "timestamp": "2022-06-22T14:15:22+0000",
   "tokens": [
+      {
+          "chainId": 61,
+          "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+          "symbol": "WETC",
+          "name": "Wrapped Ethereum Classic",
+          "decimals": 18,
+          "tags": ["ether", "classic"]
+      },
       {
           "name": "Private Token2",
           "chainId": 61,
@@ -20,6 +29,14 @@
           "decimals": 18,
           "address": "0x77C7b0ce250Afb6E9668EdC7fb7Fe309Fa0D8E83",
           "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/globe.png"
+      },
+      {
+          "name": "HEBE Token",
+          "chainId": 61,
+          "symbol": "HEBE",
+          "decimals": 18,
+          "address": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
+          "logoURI": "https://raw.githubusercontent.com/HebePlatform/tokenlist/main/0x88d8c3dc6b5324f34e8cf229a93e197048671abd/logo.png"
       }
   ]
 }
