@@ -1,7 +1,7 @@
 {
   "name": "Turbine Tokens",
   "version": {
-      "major": 1,
+      "major": 2,
       "minor": 3,
       "patch": 0
   },
@@ -15,12 +15,76 @@
   "timestamp": "2022-09-24T14:15:22+0000",
   "tokens": [
       {
-          "name": "Private Token2",
+          "name": "Binance-Peg BUSD Token",
           "chainId": 61,
-          "symbol": "TOKEN2",
+          "symbol": "BUSD",
           "decimals": 18,
-          "address": "0x77C7b0ce250Afb6E9668EdC7fb7Fe309Fa0D8E83",
-          "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/globe.png"
+          "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+          "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png"
+      },
+      {
+          "name": "Binance",
+          "chainId": 61,
+          "symbol": "BNB",
+          "decimals": 18,
+          "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+          "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+      },
+      {
+          "name": "JellyBeanCash",
+          "chainId": 61,
+          "symbol": "JellyBean",
+          "decimals": 18,
+          "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+          "logoURI": "https://assets.coingecko.com/coins/images/26605/large/jellybeancash.png"
+      },
+      {
+          "name": "Wrapped Nova USD",
+          "chainId": 61,
+          "symbol": "nUSD",
+          "decimals": 6,
+          "address": "0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4",
+          "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x1F5396f254EE25377A5C1b9c6BfF5f44e9294fFF/logo.png"
+      },
+      {
+          "name": "Dai Stablecoin",
+          "chainId": 61,
+          "symbol": "DAI",
+          "decimals": 18,
+          "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+          "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png"
+      },
+      {
+          "name": "Wrapped Ethereum",
+          "chainId": 61,
+          "symbol": "WETH",
+          "decimals": 18,
+          "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+          "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+      },
+      {
+          "name": "USD Coin",
+          "chainId": 61,
+          "symbol": "USDC",
+          "decimals": 6,
+          "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+          "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      },
+      {
+          "name": "Tether USD",
+          "chainId": 61,
+          "symbol": "USDT",
+          "decimals": 6,
+          "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+          "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+      },
+      {
+          "name": "Wrapped Bitcoin",
+          "chainId": 61,
+          "symbol": "WBTC",
+          "decimals": 8,
+          "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+          "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
       },
       {
           "name": "HEBE Token",
