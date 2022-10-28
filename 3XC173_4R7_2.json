@@ -1,14 +1,10 @@
 {
   "name":"3XC173 4R7",
-  "description":"",
+  "description":"These Halos are all unique. Each of them has a special ability. Some superpowers are common and others are unique. Invincibility is the most unique of them all. Only one such NFT will ever exist.",
   "image":"https://i.ibb.co/hdNph3R/4R7-2.jpg",
   "animation_url":"",
   "background_color":"",
   "attributes":[
-    {
-      "trait_type":"Description",
-      "value":"These Halos are all unique. Each of them has a special ability. Some superpowers are common and others are unique. Invincibility is the most unique of them all. Only one such NFT will ever exist."
-    },
     {
       "trait_type":"superpower",
       "value":"invincibility"
