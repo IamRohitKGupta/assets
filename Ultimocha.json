@@ -1,0 +1,13 @@
+{
+  "name":"Ultimocha",
+  "description":"",
+  "image":"",
+  "animation_url":"",
+  "background_color":"",
+  "attributes":[
+    {
+      "trait_type":"caffeine level",
+      "value":"godly"
+    }
+  ]
+}
