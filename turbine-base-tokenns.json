@@ -1,0 +1,26 @@
+{
+  "name": "Turbine Tokens",
+  "version": {
+      "major": 2,
+      "minor": 3,
+      "patch": 0
+  },
+  "keywords": [
+      "turbine",
+      "turbineswap",
+      "tokens",
+      "list"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/IamRohitKGupta/assets/main/favicon.png",
+  "timestamp": "2023-07-31T14:15:22+0000",
+  "tokens": [
+      {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+    }
+  ]
+}
